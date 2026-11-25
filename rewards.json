@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "rewards": [
+    {
+      "id": "kids-book",
+      "title": "Choose a new book",
+      "audience": "child",
+      "url": "https://www.target.com/s?searchTerm=children%27s%20books"
+    },
+    {
+      "id": "small-toy",
+      "title": "Pick a small toy",
+      "audience": "child",
+      "url": "https://www.walmart.com/search?q=small%20toy"
+    },
+    {
+      "id": "art-supplies",
+      "title": "Art or craft supplies",
+      "audience": "child",
+      "url": "https://www.target.com/s?searchTerm=kids%20art%20supplies"
+    },
+    {
+      "id": "child-board-game",
+      "title": "Choose a board game",
+      "audience": "child",
+      "url": "https://www.walmart.com/search?q=kids%20board%20game"
+    },
+    {
+      "id": "special-outing",
+      "title": "Special outing",
+      "audience": "child",
+      "url": "https://www.target.com/s?searchTerm=kids%20experience%20gift%20card"
+    },
+    {
+      "id": "child-gift",
+      "title": "Choose a gift",
+      "audience": "child",
+      "url": "https://www.walmart.com/search?q=kids%20gift"
+    },
+    {
+      "id": "family-movie-night",
+      "title": "Family movie night",
+      "audience": "family",
+      "url": "https://www.target.com/s?searchTerm=movie%20night%20snacks"
+    },
+    {
+      "id": "family-board-game",
+      "title": "Family board game night",
+      "audience": "family",
+      "url": "https://www.walmart.com/search?q=family%20board%20game"
+    },
+    {
+      "id": "family-outing",
+      "title": "Choose a family outing",
+      "audience": "family",
+      "url": "https://www.target.com/s?searchTerm=family%20experience%20gift%20card"
+    },
+    {
+      "id": "pizza-night",
+      "title": "Pizza night",
+      "audience": "family",
+      "url": "https://www.walmart.com/search?q=pizza%20night"
+    },
+    {
+      "id": "family-treat",
+      "title": "Family treat",
+      "audience": "family",
+      "url": "https://www.target.com/s?searchTerm=family%20treats"
+    },
+    {
+      "id": "family-gift",
+      "title": "Choose a family gift",
+      "audience": "family",
+      "url": "https://www.walmart.com/search?q=family%20gift"
+    }
+  ]
+}
