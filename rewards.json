@@ -2,12 +2,6 @@
   "version": 1,
   "rewards": [
     {
-      "id": "kids-book",
-      "title": "Choose a new book",
-      "audience": "child",
-      "url": "https://www.target.com/s?searchTerm=children%27s%20books"
-    },
-    {
       "id": "small-toy",
       "title": "Pick a small toy",
       "audience": "child",
